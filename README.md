@@ -1,4 +1,4 @@
-# INE5410 – Programação Concorrente
+# UFSC INE5410 – Programação Concorrente
 
 |            | Descrição                                                  |  Funcionam? |
 |------------|:---------------------------------------------------------- | :---------- |
